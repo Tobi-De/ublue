@@ -4,11 +4,12 @@ org.gnome.DejaDup
 org.gnome.Rhythmbox3
 org.gnome.Shotwell
 org.gustavoperedo.FontDownloader
-org.libreoffice.LibreOffice
+#org.libreoffice.LibreOffice
+org.onlyoffice.desktopeditors
 org.mozilla.firefox
-org.mozilla.Thunderbird
+#org.mozilla.Thunderbird
 org.freedesktop.Platform.ffmpeg-full//22.08
-org.freedesktop.Platform.GStreamer.gstreamer-vaapi//22.08
+#org.freedesktop.Platform.GStreamer.gstreamer-vaapi//22.08
 io.github.celluloid_player.Celluloid
 com.github.tchx84.Flatseal
 com.mattjakeman.ExtensionManager
@@ -16,33 +17,38 @@ org.gnome.Firmware
 
 # Browsers
 #com.brave.Browser
-#com.google.Chrome
+com.google.Chrome
 #com.microsoft.Edge
 
 # Gaming and Streaming Specific
-#com.discordapp.Discord
+com.discordapp.Discord
 #com.obsproject.Studio
 #com.obsproject.Studio.Plugin.Gstreamer
-#com.valvesoftware.Steam
-#org.freedesktop.Platform.VulkanLayer.MangoHud
+com.valvesoftware.Steam
+org.freedesktop.Platform.VulkanLayer.MangoHud
 #org.freedesktop.Platform.GStreamer.gstreamer-vaapi//22.08
 #org.freedesktop.Platform.VulkanLayer.OBSVkCapture
-#com.valvesoftware.Steam.Utility.gamescope
-#com.usebottles.bottles
+com.valvesoftware.Steam.Utility.gamescope
+com.usebottles.bottles
 
 # Other goodies
+info.febvre.Komikku.flatpak
+org.godotengine.Godot
+org.telegram.desktop
+md.obsidian.Obsidian
+io.bassi.Amberol
 #com.belmoussaoui.Obfuscate
 #com.getmailspring.Mailspring
-#com.slack.Slack
-#com.spotify.Client
+com.slack.Slack
+com.spotify.Client
 #com.todoist.Todoist
 #de.haeckerfelix.Fragments
 #org.audacityteam.Audacity
 #org.flameshot.Flameshot
-#org.gimp.GIMP
+org.gimp.GIMP
 #org.inkscape.Inkscape
 #org.kde.krita
 #org.signal.Signal
 #org.standardnotes.standardnotes
-#org.videolan.VLC
+org.videolan.VLC
 #us.zoom.Zoom
