@@ -37,6 +37,7 @@ org.godotengine.Godot
 org.telegram.desktop
 md.obsidian.Obsidian
 io.bassi.Amberol
+org.js.nuclear.Nuclear
 #com.belmoussaoui.Obfuscate
 #com.getmailspring.Mailspring
 com.slack.Slack
