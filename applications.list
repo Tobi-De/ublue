@@ -17,7 +17,7 @@ org.gnome.Firmware
 
 # Browsers
 #com.brave.Browser
-com.google.Chrome
+#com.google.Chrome
 #com.microsoft.Edge
 
 # Gaming and Streaming Specific
@@ -32,7 +32,7 @@ com.valvesoftware.Steam.Utility.gamescope
 com.usebottles.bottles
 
 # Other goodies
-info.febvre.Komikku.flatpak
+#info.febvre.Komikku.flatpak
 org.godotengine.Godot
 org.telegram.desktop
 md.obsidian.Obsidian
